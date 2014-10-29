@@ -11,12 +11,6 @@
             "email": "info@kruske.es"
         }
     ],
-	"repositories": [
-        {
-            "type": "git",
-            "https://github.com/kruske/tpv-virtual-bbva"
-        }
-    ],
     "autoload": {
         "psr-0": { "Kruske\\TPVVirtualBBVABundle": "" }
     },
